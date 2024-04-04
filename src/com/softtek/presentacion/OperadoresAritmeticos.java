@@ -1,4 +1,5 @@
-package com.softtek;
+package com.softtek.presentacion;
 
 public class OperadoresAritmeticos {
+
 }
